@@ -5,11 +5,11 @@ Readme
 
 =======
 
-Welcome to Fermat's  official book ! 
+Welcome to Fermat's official book! 
 ------------------------------------
 
 This is the repository version of Fermat's book.
-To begin reading the book please clic on the following link:
+To begin reading the book please click on the following link:
 [Fermat Book](https://github.com/bitDubai/fermat/blob/master/fermat-book/book-chapter-00%28intro%29.asciidoc)
 
 For project documentation, please refer to: 
@@ -18,7 +18,7 @@ For project documentation, please refer to:
 For a technical and academic description of the project, please refer to: 
 [Fermat White Paper](https://github.com/bitDubai/fermat/blob/master/FERMAT-WHITE-PAPER.md)
 
-You can also get a nice visualization of the project and real-time Fermat Network tracking at 
+You can also get a nice visualization of the project and real time Fermat Network tracking at: 
 [fermat.org](http://www.fermat.org).
 
 
